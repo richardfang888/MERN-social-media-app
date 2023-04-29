@@ -5,7 +5,7 @@ const initialState = {
   user: null,
   token: null,
   posts: [],
-  URL: "https://mernsocialmedia-backend.onrender.com"
+  URL: "https://mernsocialmedia-backend.onrender.com/"
 };
 
 export const authSlice = createSlice({
